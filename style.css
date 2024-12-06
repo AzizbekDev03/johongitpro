@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+  
+  
+    margin: 0.4px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  gap: 150px;
+  border: 5px solid white;
+  color: black;
+  background-color: rgb(125, 163, 132);
+    
+
+}
+.box{
+    width: 200px;
+    height: 200px;
+    border: 5px solid white;
+}
+.bor{
+    margin: 0 auto;
+    text-align: center;
+}
